@@ -92,12 +92,12 @@
     {
       "term": "FOS: Physical sciences",
       "identifier": "http://www.oecd.org/science/inno/38235147.pdf",
-      "scheme": "url",
+      "scheme": "url"
     },
     {
       "term": "FOS: Materials engineering",
       "identifier": "http://www.oecd.org/science/inno/38235147.pdf",
-      "scheme": "url",
+      "scheme": "url"
     }
   ],
   "contributors": [],
